@@ -1,3 +1,12 @@
+# Kyuzu
+
+<div align="center">
+    <a href="https://discord.gg/2AQjNBaMtj"><img src="https://img.shields.io/discord/941980665962975283?style=for-the-badge" /></a>
+    <a href="https://kyuzu.is-a.dev"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fkyuzu.is-a.dev%2F" /></a>
+    <p>Personal GitHub profile README.</p>
+</div>
+
+
 ```console
 [kyuzu@github.com: ~/]
 $ neofetch
