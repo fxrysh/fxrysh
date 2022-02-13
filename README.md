@@ -1,8 +1,11 @@
 # Kyuzu
 
 <div align="center">
+    <a href="https://kyuzu.is-a.dev/"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=kyuzu.is-a.dev&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fkyuzu.is-a.dev" /></a>
+    <a href="https://kyuzu.github.io/"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=kyuzu.github.io&logo=github&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fkyuzu.github.io%2F" /></a>
+    <a href="https://kyuzu.deno.dev/"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=kyuzu.deno.dev&logo=deno&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fkyuzu.deno.dev%2F" /></a>
+    <br />
     <a href="https://discord.gg/2AQjNBaMtj"><img src="https://img.shields.io/discord/941980665962975283?style=for-the-badge" /></a>
-    <a href="https://kyuzu.is-a.dev"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fkyuzu.is-a.dev%2F" /></a>
     <p>Personal GitHub profile README.</p>
 </div>
 
