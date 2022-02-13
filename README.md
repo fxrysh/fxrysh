@@ -10,7 +10,7 @@
 
 
 ```console
-[kyuzu@github.com: ~/]
+[kyuzu@github.com: ~]
 $ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.
@@ -33,7 +33,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*    Github: kyuzu
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n      Projects
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~       ------------------
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.        Portfolio: ~/portfolio
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=          DASM: ~/dasm
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`
               "Lf8@@@@v              q@@@#Qa?:
