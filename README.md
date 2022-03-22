@@ -5,7 +5,6 @@
     <a href="https://fxrysh.github.io/"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=fxrysh.github.io&logo=github&style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Ffxrysh.github.io%2F" /></a>
     <a href="https://farish.deno.dev/"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=farish.deno.dev&logo=deno&style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Ffarish.deno.dev%2F" /></a>
     <br />
-    <a href="https://discord.gg/2AQjNBaMtj/"><img src="https://img.shields.io/discord/941980665962975283?logo=discord&logoColor=white&style=flat-square" /></a>
 </div>
 
 > **NOTE**: I will be away for few months due to school. If you opened an issue in any of my repository, I will not be responding to them.
